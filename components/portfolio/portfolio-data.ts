@@ -73,7 +73,7 @@ export const projects = [
   {
     title: "MINA",
     category: "ML Platform",
-    link: "mina-healthcare.web.app/",
+    link: "https://mina-healthcare.web.app/",
     picture: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=1170&auto=format&fit=crop",
     description:
       "MINA: AI-powered nursing mobile app for intelligent healthcare assistance",
@@ -86,31 +86,43 @@ export const projects = [
     picture: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1170&auto=format&fit=crop",
     description:
       "Flutter app automating marketplace data collection and analysis.",
-    tags: ["Flutter", "Firebase", "AI UX", "Mobile"],
+    tags: ["Flutter", "Firebase", "UI UX", "Mobile"],
+  },
+   {
+    title: "Saud Leather",
+    category: "Web-App",
+    link: "https://www.saudleather.com.np/",
+    picture: "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVhdGhlciUyMGphY2tldCd8ZW58MHx8MHx8fDA%3D",
+    description:
+      "Flutter app automating marketplace data collection and analysis.",
+    tags: ["Flutter", "Firebase", "UI UX", "Mobile"],
   },
 ];
 
 export const experience = [
   {
-    role: "AI Engineer",
-    company: "Independent Projects",
-    period: "2024 - Present",
+    role: "AI/ML",
+    company: "Self Explore Data Science",
+    period: "March 2025 - Present",
     summary:
       "Building AI-powered products that combine machine learning, data workflows, and modern frontend interfaces.",
+    tags: ["Python", "TensorFlow", "FastAPI", "Node.js","skit-learn", "Next.js", "React", "pandas", "NumPy"],
   },
   {
-    role: "Machine Learning Engineer",
-    company: "Applied ML Labs",
-    period: "2023 - 2024",
+    role: "Full Stack Developer",
+    company: "Popup Bits",
+    period: "Feb 2025-March 2026 ",
     summary:
-      "Designed model pipelines, evaluation flows, and user-facing tools for practical decision support.",
+      "Developed cross-platform mobile applications using Flutter and built backend APIs with Python (FastAPI), integrating databases, authentication, and RESTful services.",
+    tags: ["Python", "Flutter", "FastAPI","Dart"],
   },
   {
-    role: "Flutter Developer",
-    company: "Mobile Product Studio",
-    period: "2022 - 2023",
+    role: "Personal Projects",
+    company: "Projects & Freelance",
+    period: "2022 - 2025",
     summary:
-      "Created responsive cross-platform apps with clean state management and performance-focused UI.",
+      "Created responsive cross-platform and web applications with clean architecture, efficient state management, and performance-focused UI.",
+    tags: ["Flutter", "React", "Next.js","javascript", "TypeScript","java", "Python"],
   },
 ];
 
@@ -158,6 +170,24 @@ export const contactMethods = [
     value: "Validated learning path",
     href: "#certificates",
     icon: Medal,
+  },
+];
+
+export const socialLinks = [
+  {
+    label: "GitHub",
+    href: "https://github.com/bhattabhuwan",
+    icon: "github",
+  },
+  {
+    label: "LinkedIn",
+    href: "https://www.linkedin.com/in/bhuwan-bhatta/",
+    icon: "linkedin",
+  },
+  {
+    label: "Facebook",
+    href: "https://www.facebook.com/bhuwan.bhatta.5015",
+    icon: "facebook",
   },
 ];
 

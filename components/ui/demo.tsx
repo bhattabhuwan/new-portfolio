@@ -18,7 +18,7 @@ const actions = [
   },
   {
     label: "Download Resume",
-    href: "/resume.pdf",
+    href: "/portfolio/resume.pdf",
     icon: ArrowDownToLine,
   },
   {
