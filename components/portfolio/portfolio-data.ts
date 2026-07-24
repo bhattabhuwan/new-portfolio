@@ -83,7 +83,7 @@ export const projects = [
     title: "Auto Market",
     category: "Flutter App",
     link: "https://github.com/bhattabhuwan/automarket",
-    picture: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1170&auto=format&fit=crop",
+    picture: "https://chitratech.com.np/AutoMarket.webp",
     description:
       "Flutter app automating marketplace data collection and analysis.",
     tags: ["Flutter", "Firebase", "UI UX", "Mobile"],
