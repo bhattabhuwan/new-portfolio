@@ -308,12 +308,12 @@ export function ContactSection() {
                   AI systems and modern application development.
                 </p>
               </div>
-              <Button asChild variant="glass" size="lg">
-                <a href="mailto:bhuwavhatta@gmail.com">
-                  <Send className="size-4" />
-                  Send Email
-                </a>
-              </Button>
+             <Button asChild variant="glass" size="lg">
+  <a href="mailto:bhuwavhatta@gmail.com">
+    <Send className="size-4" />
+    Send Email
+  </a>
+</Button>
             </CardContent>
           </FuturisticCard>
 
