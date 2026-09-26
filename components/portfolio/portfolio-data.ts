@@ -70,15 +70,7 @@ export const projects = [
     description:"An LLM-powered telemedicine platform with enabled healthcare assistance, secure consultations.",
     tags: ["RAG", "Embeddings", "Next.js", "Vector DB"],
   },
-  {
-    title: "MINA",
-    category: "ML Platform",
-    link: "https://mina-healthcare.web.app/",
-    picture: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=1170&auto=format&fit=crop",
-    description:
-      "MINA: AI-powered nursing mobile app for intelligent healthcare assistance",
-    tags: ["Forecasting", "Python", "Data Viz", "APIs"],
-  },
+  
   {
     title: "Auto Market",
     category: "Flutter App",
